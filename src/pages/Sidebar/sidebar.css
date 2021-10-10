@@ -1,0 +1,25 @@
+.sidebar-container {
+  width: 20vw;
+  height: 100vh;
+  position: fixed;
+  right: 0;
+  top: 0;
+  background-color: #131b21;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: 10px 25px;
+  color: white;
+}
+.year-container .MuiOutlinedInput-root {
+  color: white;
+  height: 40px;
+}
+.year-container .MuiSvgIcon-root {
+  color: #4c5155;
+}
+.year-container .MuiOutlinedInput-notchedOutline {
+  color: white;
+  border-color: #4c5155;
+}
+.year-container .label {
+  color: #4c5155;
+}

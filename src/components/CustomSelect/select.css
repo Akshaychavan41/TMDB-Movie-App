@@ -1,0 +1,21 @@
+.select-container .MuiSelect-root {
+  color: white;
+  height: 40px;
+}
+.select-container .MuiSelect-root .MuiSvgIcon-root {
+  color: #4c5155;
+}
+.select-container .MuiSelect-root .MuiOutlinedInput-notchedOutline {
+  color: white;
+  border-color: #4c5155;
+}
+.select-container .MuiSelect-root .MuiOutlinedInput-notchedOutline:hover {
+  color: white;
+  border-color: white;
+}
+.select-container {
+  margin: 20px 0;
+}
+.select-container label {
+  color: #4c5155;
+}

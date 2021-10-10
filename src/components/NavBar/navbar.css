@@ -1,0 +1,29 @@
+.navbar-container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.navbar-header {
+  margin: 0;
+  color: white;
+  padding: 20px;
+}
+.navbar-item-container {
+  display: flex;
+  color: #166e9a;
+  align-items: center;
+}
+.navbar-item-container .MuiTab-root {
+  color: white;
+}
+.navbar-item-container li {
+  list-style-type: none;
+  margin-right: 20px;
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: 600;
+}
+.navbar-search-container {
+  margin-right: 30px;
+}
