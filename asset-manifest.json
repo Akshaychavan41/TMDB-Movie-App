@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TMDB-Movie-App/static/css/main.5a4935da.chunk.css",
+    "main.js": "/TMDB-Movie-App/static/js/main.fe67dbad.chunk.js",
+    "main.js.map": "/TMDB-Movie-App/static/js/main.fe67dbad.chunk.js.map",
+    "runtime-main.js": "/TMDB-Movie-App/static/js/runtime-main.adf18fb2.js",
+    "runtime-main.js.map": "/TMDB-Movie-App/static/js/runtime-main.adf18fb2.js.map",
+    "static/js/2.35afc658.chunk.js": "/TMDB-Movie-App/static/js/2.35afc658.chunk.js",
+    "static/js/2.35afc658.chunk.js.map": "/TMDB-Movie-App/static/js/2.35afc658.chunk.js.map",
+    "static/js/3.c8930531.chunk.js": "/TMDB-Movie-App/static/js/3.c8930531.chunk.js",
+    "static/js/3.c8930531.chunk.js.map": "/TMDB-Movie-App/static/js/3.c8930531.chunk.js.map",
+    "index.html": "/TMDB-Movie-App/index.html",
+    "static/css/main.5a4935da.chunk.css.map": "/TMDB-Movie-App/static/css/main.5a4935da.chunk.css.map",
+    "static/js/2.35afc658.chunk.js.LICENSE.txt": "/TMDB-Movie-App/static/js/2.35afc658.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adf18fb2.js",
+    "static/js/2.35afc658.chunk.js",
+    "static/css/main.5a4935da.chunk.css",
+    "static/js/main.fe67dbad.chunk.js"
+  ]
+}
