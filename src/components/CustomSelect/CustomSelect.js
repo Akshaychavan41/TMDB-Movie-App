@@ -2,7 +2,13 @@ import React, { useEffect, useState } from "react";
 import "./select.css";
 import { FormControl, InputLabel, MenuItem, Select } from "@mui/material";
 
-const CustomSelect = ({ options = [], label, changeHandler, currentValue }) => {
+const CustomSelect = ({
+  options = [],
+  label,
+  changeHandler,
+  currentValue,
+  disabled,
+}) => {
   const [currValue, setCurrValue] = useState(currentValue);
 
   useEffect(() => {
@@ -23,6 +29,7 @@ const CustomSelect = ({ options = [], label, changeHandler, currentValue }) => {
           id="simple-select"
           value={currValue}
           onChange={handleSelect}
+          disabled={disabled}
         >
           {options &&
             options.map((item) => {

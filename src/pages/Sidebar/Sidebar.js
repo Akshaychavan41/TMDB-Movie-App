@@ -48,6 +48,7 @@ function Sidebar({ getFilters, typeChange, genreOptions }) {
         changeHandler={handleGenreChange}
         options={genreOptions}
         currentValue={selectedGenre}
+        disabled={!type}
         label="Genre"
       />
       <div className="year-container">
