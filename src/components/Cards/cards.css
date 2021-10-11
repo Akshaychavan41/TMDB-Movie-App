@@ -16,8 +16,8 @@
 
 .single-card-container img {
   max-height: 350px;
-  background-color: #ffffff;
-  background-image: url("../../assets/spinner.gif");
+  background-color: #515459;
+  background-image: url("../../assets/spinner.svg");
   background-repeat: no-repeat;
   background-position: 50% 50%;
 }
